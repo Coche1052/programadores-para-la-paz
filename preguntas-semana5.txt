@@ -1,0 +1,11 @@
+Pregunta 1: Respuesta B
+Una ruta en Express es una dirección que define cómo responde el servidor cuando recibe una solicitud a una URL específica.
+
+Pregunta 2: Respuesta B
+El método HTTP GET se usa normalmente para consultar o solicitar información desde el servidor sin modificar ningún dato.
+
+Pregunta 3: Respuesta A
+El método HTTP POST se usa para enviar o registrar información nueva en el servidor, como formularios o reportes.
+
+Pregunta 4: Respuesta B
+API significa Interfaz de Programación de Aplicaciones y permite que diferentes sistemas o aplicaciones se comuniquen entre sí de forma organizada.
