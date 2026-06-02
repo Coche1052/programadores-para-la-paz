@@ -1,0 +1,11 @@
+Pregunta 1: Respuesta B
+Node.js es un entorno que permite ejecutar JavaScript en el servidor, fuera del navegador.
+
+Pregunta 2: Respuesta B
+El comando npm init inicializa un proyecto Node.js creando el archivo package.json con la configuración básica del proyecto.
+
+Pregunta 3: Respuesta B
+Express es un framework para construir servidores y APIs en Node.js de forma rápida y sencilla.
+
+Pregunta 4: Respuesta B
+Una ruta define cómo responde el servidor cuando un usuario accede a una URL específica desde el navegador.
