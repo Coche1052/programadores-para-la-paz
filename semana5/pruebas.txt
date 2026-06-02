@@ -1,0 +1,15 @@
+Pruebas de las rutas del servidor:
+
+Ruta 1: http://localhost:3000
+Al acceder a esta ruta el servidor responde con el mensaje "Servidor activo".
+Es la ruta principal o raíz del servidor y sirve para confirmar que está funcionando correctamente.
+
+Ruta 2: http://localhost:3000/saludo
+Al acceder a esta ruta el servidor responde con el mensaje "Hola comunidad".
+Es una ruta fija que siempre devuelve el mismo saludo sin importar quién la visite.
+
+Ruta 3: http://localhost:3000/mensaje/juan
+Al acceder a esta ruta el servidor responde con el mensaje "Hola juan".
+Esta ruta usa un parámetro dinámico llamado :nombre, lo que significa que si cambiamos
+"juan" por otro nombre en la URL, el servidor responderá saludando a esa persona.
+Por ejemplo: http://localhost:3000/mensaje/maria respondería "Hola maria".

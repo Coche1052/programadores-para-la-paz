@@ -1,0 +1,16 @@
+Explicación de la ruta POST /reporte:
+
+¿Qué hace esta ruta?
+La ruta POST /reporte recibe un mensaje enviado por el usuario en el cuerpo de la solicitud,
+lo lee usando req.body.mensaje y responde con un objeto JSON que confirma que el reporte
+fue recibido correctamente, incluyendo el mensaje original. A diferencia de las rutas GET,
+esta ruta no se puede probar escribiendo la URL en el navegador porque necesita recibir
+datos enviados desde un formulario, una aplicación o una herramienta como Postman.
+
+¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria esta ruta podría usarse para que los ciudadanos envíen
+reportes sobre problemas en su barrio, como daños en vías, fallas en el servicio de agua
+o situaciones de riesgo. Cada reporte llegaría al servidor con el mensaje del ciudadano
+y podría guardarse en una base de datos para que las autoridades o líderes comunitarios
+lo revisen y tomen acciones. Sería una forma organizada y digital de canalizar las
+necesidades de una comunidad sin necesidad de llamadas telefónicas o desplazamientos.

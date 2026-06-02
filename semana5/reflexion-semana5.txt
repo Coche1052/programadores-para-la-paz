@@ -1,0 +1,12 @@
+Las APIs son una herramienta poderosa que puede transformar la forma en que las comunidades
+se organizan y comparten información, porque permiten conectar diferentes aplicaciones y
+dispositivos de manera estructurada y eficiente. Por ejemplo, una comunidad podría tener
+una aplicación donde sus miembros reporten emergencias, problemas de infraestructura o
+alertas de seguridad, y esa información viajaría a través de una API hasta un servidor
+central donde sería procesada y distribuida a quienes corresponda atenderla. Esto elimina
+la necesidad de intermediarios y hace que la comunicación sea más rápida y transparente.
+Además, las APIs permiten integrar distintas plataformas, por ejemplo conectar una aplicación
+móvil con un mapa en tiempo real que muestre dónde se están reportando los problemas.
+En comunidades rurales o con recursos limitados, una API sencilla construida con Node.js
+podría ser suficiente para crear un sistema de alertas que mejore la seguridad y la
+organización colectiva sin grandes inversiones tecnológicas.
