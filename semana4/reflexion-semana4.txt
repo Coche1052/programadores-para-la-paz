@@ -1,0 +1,11 @@
+Que las comunidades y organizaciones ciudadanas puedan construir sus propias herramientas
+tecnológicas es fundamental para lograr una mayor autonomía e independencia digital.
+Tecnologías abiertas como Node.js permiten que cualquier persona con conocimientos básicos
+de programación pueda crear aplicaciones sin necesidad de pagar licencias costosas ni depender
+de grandes empresas tecnológicas. Esto democratiza el acceso al desarrollo de software y permite
+que comunidades con pocos recursos puedan crear soluciones adaptadas a sus propias necesidades.
+Por ejemplo, una organización social podría construir una plataforma para gestionar sus proyectos,
+comunicarse con sus miembros o registrar información importante de forma segura y propia.
+Además, al usar tecnologías abiertas se fomenta el aprendizaje colectivo y la colaboración,
+ya que el código puede ser compartido y mejorado por cualquier persona de la comunidad.
+En definitiva, Node.js y las tecnologías abiertas son herramientas de empoderamiento ciudadano.

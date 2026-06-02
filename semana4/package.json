@@ -1,0 +1,12 @@
+{
+  "name": "semana4",
+  "version": "1.0.0",
+  "description": "Servidor básico con Node.js y Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
