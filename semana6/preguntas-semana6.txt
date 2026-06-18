@@ -1,0 +1,16 @@
+Pregunta 1:
+Respuesta: B
+JSON es un formato de intercambio de datos usado entre aplicaciones. Su nombre significa JavaScript Object Notation y es muy usado en APIs para enviar y recibir información de forma estructurada.
+ 
+Pregunta 2:
+Respuesta: B
+express.json() permite leer los datos enviados en formato JSON dentro del cuerpo de una petición POST, haciendo que esos datos queden disponibles en req.body.
+ 
+Pregunta 3:
+Respuesta: B
+Los datos enviados en una petición POST se encuentran en req.body, que es donde Express almacena la información recibida en el cuerpo de la solicitud.
+ 
+Pregunta 4:
+Respuesta: C
+Un objeto JSON se representa correctamente con llaves, comillas dobles en las claves y en los valores de texto: { "nombre": "Juan" }
+ 
