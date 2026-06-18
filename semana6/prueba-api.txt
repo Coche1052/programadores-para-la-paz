@@ -1,0 +1,21 @@
+Prueba de la ruta POST /registro:
+
+Se envió una petición POST a http://localhost:3000/registro con el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor respondió con el siguiente objeto JSON:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto significa que el servidor recibió correctamente los datos enviados por el usuario,
+los leyó desde req.body y los devolvió en la respuesta junto con un campo "estado"
+que confirma que la operación fue exitosa. La ruta funciona correctamente y es capaz
+de procesar información enviada en formato JSON desde un cliente externo.

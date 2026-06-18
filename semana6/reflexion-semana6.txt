@@ -1,0 +1,13 @@
+Que las plataformas tecnológicas puedan recibir reportes e información de los ciudadanos
+de forma estructurada es fundamental para mejorar la gestión pública y comunitaria,
+porque permite organizar grandes cantidades de datos de manera clara y eficiente.
+Cuando un ciudadano envía un reporte en formato JSON, la información llega ordenada
+con campos específicos como el tipo de problema y su descripción, lo que facilita
+que el sistema la procese, la almacene y la dirija a quien corresponde atenderla.
+A diferencia de un mensaje de texto o una llamada telefónica, un reporte estructurado
+puede ser leído automáticamente por un programa, generar alertas, crear estadísticas
+y hasta conectarse con otras plataformas del gobierno o la comunidad.
+Esto ahorra tiempo, reduce errores humanos y hace que la respuesta ante problemas
+sea mucho más rápida y organizada. En comunidades con muchas necesidades y pocos
+recursos, tener una plataforma que reciba información estructurada puede marcar
+la diferencia entre atender un problema a tiempo o dejarlo crecer sin control.
