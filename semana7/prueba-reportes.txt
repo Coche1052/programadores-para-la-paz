@@ -1,0 +1,33 @@
+Prueba de las rutas del servidor de reportes — Semana 7
+
+Primero se envió una petición POST a http://localhost:3000/reportes con este JSON:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor guardó este reporte en el array y respondió confirmando el registro:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Luego se consultó la ruta GET en http://localhost:3000/reportes, y el servidor
+devolvió la lista completa de los reportes guardados hasta ese momento:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto demuestra que cada vez que se agrega un reporte con POST, ese dato queda
+disponible inmediatamente al consultar con GET, ya que ambos usan el mismo array
+en memoria. Sin embargo, si el servidor se apaga y se vuelve a encender, todos
+los reportes guardados se perderán porque no están almacenados en una base de
+datos, sino temporalmente en la memoria del programa.

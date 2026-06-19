@@ -1,0 +1,19 @@
+Ejemplos de reportes ciudadanos que podrían registrarse — Semana 7
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Una vía de acceso al barrio presenta huecos grandes que dificultan el paso de vehículos."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Se acumulan residuos sólidos cerca del río, generando malos olores y posibles enfermedades."
+}
+
+Ejemplo 3 (adicional):
+{
+  "tipo": "Servicios públicos",
+  "descripcion": "El servicio de energía eléctrica ha presentado cortes constantes durante la última semana."
+}
