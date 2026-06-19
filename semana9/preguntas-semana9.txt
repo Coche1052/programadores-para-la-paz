@@ -1,0 +1,20 @@
+Pregunta 1:
+Respuesta: B
+Un servidor es un programa que se mantiene en ejecución esperando peticiones de
+los usuarios y respondiendo a cada una de ellas según la lógica definida.
+ 
+Pregunta 2:
+Respuesta: B
+Que un servidor escuche en un puerto significa que está atento, esperando que
+lleguen solicitudes a esa dirección específica para poder responderlas.
+ 
+Pregunta 3:
+Respuesta: B
+Monitorear la ejecución y registrar los errores que ocurren es clave para
+mantener un servidor estable y poder corregir fallas a tiempo.
+ 
+Pregunta 4:
+Respuesta: A
+Los logs son archivos donde queda registrada toda la actividad y los eventos
+importantes que ocurren dentro del sistema o la aplicación.
+ 
