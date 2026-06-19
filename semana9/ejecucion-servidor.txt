@@ -1,0 +1,22 @@
+Notas sobre la ejecución del servidor — Semana 9
+
+Al correr el comando node server.js en la terminal, Node.js lee el archivo y
+arranca el servidor Express con las rutas que se definieron previamente. Desde
+ese momento, el programa queda corriendo y a la espera de que lleguen solicitudes.
+
+En la terminal se muestra el mensaje:
+"Servidor ejecutándose en puerto 3000"
+
+Este texto aparece porque está escrito dentro de la función que se ejecuta una
+vez el servidor termina de iniciar correctamente, y sirve como confirmación
+visual de que todo quedó funcionando.
+
+Al visitar http://localhost:3000/estado en el navegador, se envía una petición
+GET a esa ruta específica. El servidor responde con un objeto en formato JSON:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+Esta ruta es útil porque permite verificar rápidamente, sin necesidad de revisar
+la terminal, que el servicio sigue activo y respondiendo correctamente.
