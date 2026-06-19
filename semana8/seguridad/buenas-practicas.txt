@@ -1,0 +1,3 @@
+1. Usar contraseñas largas y combinadas con números, letras y símbolos para que sean difíciles de adivinar.
+2. Evitar compartir las credenciales de acceso con otras personas, incluso si son de confianza.
+3. Actualizar regularmente el sistema operativo y los programas instalados para corregir fallas de seguridad conocidas.
