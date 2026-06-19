@@ -1,0 +1,19 @@
+Pregunta 1:
+Respuesta: B
+Un array es una estructura que permite guardar varios valores dentro de una sola
+variable, organizados en orden y accesibles mediante índices.
+ 
+Pregunta 2:
+Respuesta: B
+GET es el método utilizado para consultar o leer datos que ya existen en el servidor.
+ 
+Pregunta 3:
+Respuesta: B
+POST es el método utilizado cuando se quiere enviar información nueva para que
+el servidor la registre.
+ 
+Pregunta 4:
+Respuesta: B
+Una API permite que distintos programas o sistemas se comuniquen entre sí e
+intercambien información de forma ordenada.
+ 
