@@ -1,0 +1,20 @@
+Información del sistema obtenida desde la terminal — Semana 8
+
+--- Comando: uname -a ---
+Este comando muestra datos generales sobre el sistema operativo que se está
+usando, incluyendo el nombre del kernel, el nombre del equipo, la versión del
+sistema y el tipo de arquitectura del procesador (por ejemplo, 64 bits). Es una
+forma rápida de identificar en qué entorno se está trabajando.
+
+--- Comando: whoami ---
+Este comando indica el nombre del usuario que está usando la terminal en ese
+momento. Es importante porque permite saber con qué permisos se están ejecutando
+las acciones; por ejemplo, si el usuario activo tiene privilegios de administrador,
+los comandos que se ejecuten podrán modificar partes más sensibles del sistema.
+
+--- ¿Por qué es útil conocer esta información en un servidor? ---
+Cuando se administra un servidor, es fundamental saber qué sistema operativo está
+corriendo y con qué usuario se están realizando las acciones, ya que esto ayuda
+a evitar errores graves, identificar vulnerabilidades según la versión del sistema
+y mantener un control adecuado sobre quién puede modificar la configuración del
+servidor.

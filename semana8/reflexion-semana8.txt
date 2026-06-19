@@ -1,0 +1,17 @@
+Pregunta 9 — Reflexión de la semana:
+¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas
+que usan comunidades o procesos participativos?
+
+La seguridad digital cobra una importancia especial cuando hablamos de plataformas
+que sirven a comunidades, porque allí se maneja información personal y, muchas
+veces, datos sensibles relacionados con situaciones de vulnerabilidad. Si una de
+estas plataformas no cuenta con medidas básicas de protección, cualquier persona
+con malas intenciones podría acceder a esa información y usarla en contra de quienes
+confiaron en el sistema. Esto es particularmente delicado en procesos participativos,
+donde los ciudadanos comparten reportes, opiniones o solicitudes que podrían
+exponerlos si caen en manos equivocadas. Además, una plataforma insegura tiende
+a perder la confianza de sus usuarios rápidamente, lo que termina afectando la
+participación de la comunidad en general. Por esta razón, aplicar prácticas como
+cifrar las conexiones, proteger contraseñas y controlar quién accede a qué información
+no es solo un tema técnico, sino una forma concreta de cuidar a las personas que
+depositan su confianza en la tecnología para resolver problemas reales de su entorno.

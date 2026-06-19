@@ -1,0 +1,16 @@
+5 prácticas de seguridad recomendadas para una plataforma digital comunitaria — Semana 8
+
+1. Evitar mostrar información personal de los usuarios en las respuestas públicas
+   de la aplicación, protegiendo así su privacidad.
+
+2. Guardar las contraseñas y claves de acceso de forma cifrada, nunca como texto
+   plano dentro del código o en archivos visibles.
+
+3. Implementar HTTPS en lugar de HTTP para que la información viaje cifrada entre
+   el usuario y el servidor, evitando que pueda ser interceptada.
+
+4. Llevar un registro (logs) de quién accede a la plataforma y qué acciones realiza,
+   de forma que se puedan detectar comportamientos extraños a tiempo.
+
+5. Aplicar permisos diferenciados según el tipo de usuario, de modo que solo
+   los administradores puedan acceder a la información más sensible del sistema.
