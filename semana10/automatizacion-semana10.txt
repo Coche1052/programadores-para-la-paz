@@ -1,0 +1,26 @@
+Diseño de automatización con n8n y Telegram:
+
+Evento que activa el flujo:
+Un ciudadano registra un nuevo reporte en el sistema enviando una petición POST
+a la ruta /reportes de la API con el tipo y descripción de la incidencia.
+
+Acción automatizada:
+n8n detecta que se registró un nuevo reporte y automáticamente envía un mensaje
+al canal de Telegram del equipo coordinador para notificar que hay un nuevo caso.
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte registrado en el sistema. Tipo: Infraestructura. Revisar el panel
+para ver los detalles y hacer seguimiento."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos de los ciudadanos que reportaron
+- Números de documento de identidad
+- Direcciones exactas o ubicaciones precisas
+- Números de teléfono o correos electrónicos
+- Tokens de acceso o claves de la API
+- Archivos .env o configuraciones del servidor
+- Cualquier dato que permita identificar personalmente a un ciudadano
+
+Esta automatización permite que el equipo sea notificado de forma inmediata
+sin necesidad de estar revisando el sistema constantemente, mejorando la
+capacidad de respuesta ante incidencias comunitarias de manera responsable.

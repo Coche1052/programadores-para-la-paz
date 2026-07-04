@@ -1,0 +1,22 @@
+Definición de la primera iteración:
+
+¿Qué 2 tareas del backlog haría primero?
+
+Tarea 1: Registrar una incidencia (Historia 1)
+Tarea 2: Recibir alerta en Telegram al registrar un reporte (Historia 2)
+
+¿Por qué son las más importantes?
+Estas dos tareas son las más importantes porque forman el núcleo del sistema.
+Sin la posibilidad de registrar una incidencia el sistema no tiene ninguna utilidad,
+y sin la notificación en Telegram el coordinador no se enteraría de los nuevos reportes
+a tiempo. Juntas forman un ciclo completo: el ciudadano reporta y el coordinador
+es notificado de inmediato, lo que hace que el sistema sea funcional desde el primer día.
+
+¿Qué significa que una tarea esté "terminada"?
+Definición de terminado:
+
+1. La funcionalidad fue implementada y funciona correctamente sin errores.
+2. Fue probada al menos una vez con datos de ejemplo y respondió como se esperaba.
+3. Los cambios quedaron registrados en Git con un commit descriptivo.
+4. El archivo correspondiente fue publicado en el repositorio de GitHub.
+5. No se expone ningún dato sensible como tokens, claves o información personal.

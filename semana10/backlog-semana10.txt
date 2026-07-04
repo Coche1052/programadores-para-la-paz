@@ -1,0 +1,21 @@
+Backlog del proyecto comunitario - ordenado de mayor a menor prioridad:
+
+Historia 1 (Prioridad alta):
+Como ciudadano quiero registrar una incidencia para dejar evidencia del problema
+y que pueda ser atendido por las autoridades correspondientes.
+
+Historia 2 (Prioridad alta):
+Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo
+reporte para poder hacer seguimiento oportuno sin tener que revisar el sistema manualmente.
+
+Historia 3 (Prioridad media):
+Como miembro del equipo quiero consultar todos los reportes registrados para hacer
+seguimiento al estado de cada incidencia y verificar cuáles han sido atendidas.
+
+Historia 4 (Prioridad media):
+Como ciudadano quiero saber si mi reporte fue recibido correctamente para tener
+la tranquilidad de que la información llegó al sistema sin errores.
+
+Historia 5 (Prioridad baja):
+Como coordinador quiero generar un resumen semanal de reportes para presentarlo
+en reuniones comunitarias y mostrar el avance del proceso de veeduría.
