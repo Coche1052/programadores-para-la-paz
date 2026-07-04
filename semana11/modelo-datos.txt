@@ -1,0 +1,41 @@
+Modelo de datos para plataforma comunitaria:
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- categoria
+
+Propósito:
+Guardar las causas o iniciativas comunitarias que serán visibles en la plataforma
+para que los ciudadanos puedan conocerlas y decidir si desean apoyarlas.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario
+- fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación
+ciudadana y mostrar cuántas personas respaldan cada iniciativa.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- contrasena_cifrada
+- fecha_registro
+
+Propósito:
+Almacenar la información de los usuarios registrados en la plataforma, permitiendo
+identificarlos al hacer login y controlar qué acciones pueden realizar dentro del sistema.
