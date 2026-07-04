@@ -1,0 +1,16 @@
+Pregunta 1:
+Respuesta: B
+Una base de datos es un sistema que permite almacenar y consultar información estructurada dentro de una aplicación de forma organizada y eficiente.
+ 
+Pregunta 2:
+Respuesta: A
+CRUD significa Crear, Leer, Actualizar y Eliminar datos, que son las cuatro operaciones básicas que se pueden realizar sobre la información en una aplicación.
+ 
+Pregunta 3:
+Respuesta: B
+La autenticación permite identificar usuarios y controlar quién puede acceder a ciertas funciones o información dentro de una aplicación.
+ 
+Pregunta 4:
+Respuesta: B
+Es importante proteger los datos sensibles para evitar riesgos de privacidad o uso indebido de la información de los ciudadanos que usan la plataforma.
+ 
