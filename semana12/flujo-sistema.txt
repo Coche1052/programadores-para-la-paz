@@ -1,0 +1,24 @@
+Flujo del sistema "Petición en 3 Clics":
+
+Paso 1: Un ciudadano ingresa a la plataforma y crea una causa comunitaria escribiendo
+el título, la descripción y la categoría del problema que desea reportar o impulsar.
+
+Paso 2: La causa queda registrada en la base de datos del sistema con un identificador
+único, la fecha de creación y el estado inicial de cero apoyos.
+
+Paso 3: Otros ciudadanos pueden ver la lista de causas disponibles y hacer clic en
+el botón "Apoyar esta causa" para registrar su respaldo a la iniciativa.
+
+Paso 4: El sistema cuenta automáticamente los apoyos recibidos y actualiza el contador
+visible en la plataforma para que todos puedan ver cuántas personas respaldan cada causa.
+
+Paso 5: Cuando la causa alcanza un número suficiente de apoyos, el sistema genera
+automáticamente un documento PDF formal con el título de la causa, la descripción
+y el número total de apoyos registrados.
+
+Paso 6: El documento PDF puede ser descargado por el creador de la causa para
+presentarlo ante autoridades locales, instituciones o medios de comunicación
+como evidencia del respaldo ciudadano a esa iniciativa comunitaria.
+
+Paso 7: El sistema envía una notificación automática a través de Telegram al equipo
+coordinador informando que se generó una nueva petición formal lista para ser entregada.

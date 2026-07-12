@@ -1,0 +1,16 @@
+Durante este curso aprendí que la tecnología no es solo código o comandos de terminal,
+sino una herramienta poderosa que puede transformar la forma en que las comunidades
+se organizan, comunican y participan en la vida pública. Desde la semana 1 comprendí
+la importancia de ser un ciudadano digital responsable, verificando la información
+antes de compartirla y usando las herramientas tecnológicas con ética y conciencia.
+A lo largo del curso construí paso a paso los componentes de una plataforma real:
+un servidor con Node.js y Express, rutas GET y POST para recibir y consultar datos,
+arrays para almacenar información en memoria y conceptos de base de datos y autenticación
+para proteger los accesos. También aprendí que herramientas como Git no son solo para
+guardar código sino para mantener trazabilidad y responsabilidad sobre el trabajo
+realizado, algo que aplica tanto al desarrollo de software como a la vida ciudadana.
+La integración de n8n y Telegram me mostró que la automatización puede hacer más
+eficiente la comunicación comunitaria sin necesidad de grandes recursos. En definitiva,
+este curso me enseñó que cualquier persona con conocimientos básicos de programación
+puede construir soluciones tecnológicas que fortalezcan la participación ciudadana
+y ayuden a comunidades reales a organizarse, reportar problemas y hacer veeduría.

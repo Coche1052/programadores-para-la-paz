@@ -1,0 +1,29 @@
+Modelo de datos del sistema "Petición en 3 Clics":
+
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+- categoria
+
+Propósito:
+Almacenar las causas comunitarias creadas por los ciudadanos en la plataforma.
+Cada causa tiene un identificador único que permite relacionarla con los apoyos
+que recibe y con el documento PDF que se genera a partir de ella.
+
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar cada apoyo que recibe una causa, relacionándolo con la causa correspondiente
+mediante el campo causa_id. Permite contar cuántas personas respaldan cada iniciativa
+y construir el documento formal con esa información de participación ciudadana.
