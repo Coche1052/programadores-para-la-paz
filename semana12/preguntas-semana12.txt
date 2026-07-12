@@ -1,0 +1,16 @@
+Pregunta 1:
+Respuesta: B
+El sistema "Petición en 3 Clics" es una herramienta simple para que una comunidad registre apoyos a una causa y genere una petición formal de manera digital.
+ 
+Pregunta 2:
+Respuesta: B
+El propósito de generar un documento PDF automáticamente es convertir la información registrada en un documento formal que pueda ser compartido o presentado ante autoridades.
+ 
+Pregunta 3:
+Respuesta: A
+Es importante minimizar los datos personales para evitar almacenar información innecesaria o sensible que pueda poner en riesgo la privacidad de los ciudadanos.
+ 
+Pregunta 4:
+Respuesta: A
+n8n y Telegram pueden enviar notificaciones automáticas cuando ocurre un evento en el sistema, como cuando se registra una nueva causa o se alcanza un número de apoyos.
+ 
